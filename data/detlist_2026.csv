@@ -1,0 +1,585 @@
+﻿IMO No.,Ship Name,Ship Flag,Year of build,Gross Tonnage,Ship Type,Classification society,Related ROs,Company,Place of detention,Date of detention,Date of release,Nature of deficiencies
+9500091,CLIPPER BAROLO,Marshall Islands,09/05/2011,34492,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Connaught Shipmanagement (HK) Ltd,"Xiamen, China",01.06.2026,02.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+9587788,MITO,Panama,10/12/2008,9815,General cargo/multipurpose,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,"NYK BULKSHIP PARTNERS CO.,LTD","Humen, China",01.06.2026,02.06.2026,02139 - STRUCTURAL CONDITIONS - Water Level Detectors on Cargo Ships (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9488633,ANNAMARIA,Liberia,11/04/2007,6569,General cargo/multipurpose,Bureau Veritas (BV),Bureau Veritas (BV);,Unimor Shipping Agency Varna Ltd,"Shanghai, China",01.06.2026,03.06.2026,07113 - FIRE SAFETY - Fire pumps and its pipes (Bureau Veritas (BV))
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (Bureau Veritas (BV))
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (Bureau Veritas (BV))
+9791200,SHINSHU MARU,Bahamas,15/12/2015,135951,Gas carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,NYK LNG Shipmanagement Ltd,"Shenzhen, China",01.06.2026,02.06.2026,10114 - SAFETY OF NAVIGATION - Voyage data recorder (VDR)/Simplified Voyage data recorder(S-VDR) (no responsibility of RO)
+,,,,,,,,,,,,10103 - SAFETY OF NAVIGATION - Radar (no responsibility of RO)
+9651096,YUE XIANG,Belize,22/05/2009,1971,General cargo/multipurpose,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,Qingdao Sea Star Ships Management Co Ltd (Sea Star Ships Management Co Ltd),"Takamatsu, Japan",01.06.2026,05.06.2026,02114 - STRUCTURAL CONDITIONS - Bulkhead -corrosion (no responsibility of RO)
+9414644,REMIT,Belize,31/12/2005,1972,General cargo/multipurpose,Intermaritime Certification Services (ICS),"Intermaritime Certification Services, S.A. ;",BRILLIANCE INTERNATIONAL SHIPPING LIMITED,"Gunsan, Korea, Republic of",01.06.2026,08.06.2026,07123 - FIRE SAFETY - Operation of Fire protection systems (no responsibility of RO)
+,,,,,,,,,,,,07126 - FIRE SAFETY - Oil accumulation in engine room (no responsibility of RO)
+,,,,,,,,,,,,02102 - STRUCTURAL CONDITIONS - Damage control plan (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,02118 - STRUCTURAL CONDITIONS - Decks - cracking (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+9335836,ELENORE,Panama,16/06/2009,20538,Oil tanker/Chemical tanker (OILCHEM),Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Green Wave Shipping Pte Ltd,"Lianyungang, China",01.06.2026,02.06.2026,08103 - ALARMS - Fire alarm (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+9719393,TS HONOUR,Marshall Islands,15/10/2015,24159,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Dalian Tiger Shipping Ltd,"Nagoya, Aichi, Japan",01.06.2026,02.06.2026,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+9823728,MCC TOKYO,Panama,28/12/2015,33128,Container ship,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,SeoYang Shipping Co Ltd,"Ningbo, China",01.06.2026,02.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,11108 - LIFE SAVING APPLIANCES - Inflatable liferafts (no responsibility of RO)
+9446611,ORANGE TIGER,Panama,26/10/2010,92752,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Daishin Shipping Co Ltd (Daishin Senpaku KK),"Rizhao, China",02.06.2026,04.06.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (Nippon Kaiji Kyokai (NKK))
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9384564,SEARUN,Barbados,20/10/2006,59177,Oil tanker,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Searun Shipping Co Ltd,"Dongjiakou, China",02.06.2026,04.06.2026,11126 - LIFE SAVING APPLIANCES - Means of recovery of life saving appliances (no responsibility of RO)
+,,,,,,,,,,,,03102 - WATER/WEATHERTIGHT CONDITIONS - Freeboard marks (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+9477672,MATSUSHIRO,Panama,04/11/2008,9998,General cargo/multipurpose,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,NYK BULKSHIP PARTNERS CO.LTD,"Zhangjiagang, China",02.06.2026,03.06.2026,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+9663116,CX KYTHIRA,Marshall Islands,21/07/2014,36294,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Connaught Shipmanagement (HK) Ltd,"Tianjin, China",02.06.2026,03.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,05105 - RADIO COMMUNICATIONS - MF/HF Radio installation (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+9384502,STORMBREAKER,Marshall Islands,08/10/2006,43717,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Stam Shipping SA,"Ningbo, China",02.06.2026,04.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,03104 - WATER/WEATHERTIGHT CONDITIONS - Cargo & other hatchways (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9590838,CENTENNIAL HARMONY,Panama,15/12/2010,92752,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,MMS BulkShip Management (Philippines) Inc,"Caofeidian, China",02.06.2026,03.06.2026,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+9480473,ECE NUR BAYRAKTAR,Marshall Islands,28/12/2010,34422,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Bayraktar Shipmanagement And Chartering SA (Bayraktar Gemi Isletmeciligi ve Kiralama AS),"Zhanjiang, China",02.06.2026,06.06.2026,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,03107 - WATER/WEATHERTIGHT CONDITIONS - Doors (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,08101 - ALARMS - General alarm (no responsibility of RO)
+,,,,,,,,,,,,05118 - RADIO COMMUNICATIONS - Operation of GMDSS equipment (no responsibility of RO)
+9290945,ESL SHEKOU,Portugal,18/02/2004,66280,Container ship,Lloyd`s Register (LR),DNV AS (DNV);,Peter Doehle Schiffahrts-KG,"Shenzhen, China",02.06.2026,03.06.2026,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (Lloyd`s Register (LR))"
+,,,,,,,Lloyd`s Register (LR);,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,15109 - ISM - Maintenance of the ship and equipment (no responsibility of RO)
+,,,,,,,,,,,,14101 - POLLUTION PREVENTION - MARPOL ANNEX I - Control of discharge (no responsibility of RO)
+9616541,TRIDENT UNITY,Portugal,28/09/2012,33361,Bulk carrier,Lloyd`s Register (LR),DNV AS (DNV);,Pegasus Ocean Services Inc,"Tanjung Priok, Indonesia",02.06.2026,05.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,14101 - POLLUTION PREVENTION - MARPOL ANNEX I - Control of discharge (no responsibility of RO)
+,,,,,,,,,,,,15101 - ISM - Safety and environment policy (no responsibility of RO)
+1063695,LI FA 2,Panama,10/06/2010,17107,Bulk carrier,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,Rongshengtai International Shipping Co Ltd,"Yingkou, China",02.06.2026,04.06.2026,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9213105,MERATUS JIMBARAN,Panama,21/03/2000,25535,Container ship,RINA Services S.p.A. (RINA),RINA Services S.p.A. (RINA);,PT Meratus Swadaya Maritim,"Qingdao, China",02.06.2026,05.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+9443920,TUJU ARROW,Bahamas,16/05/2006,44684,General cargo/multipurpose,DNV AS (DNV),DNV AS (DNV);,Gearbulk Norway AS,"Taicang, China",03.06.2026,05.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9177557,GAS LUCKY,Panama,28/12/1999,17840,Gas carrier,DNV AS (DNV),DNV AS (DNV);,SHUNHANG SHIP MANAGEMENT LTD,"Yangzhou, China",03.06.2026,04.06.2026,07105 - FIRE SAFETY - Fire doors/openings in fire-resisting divisions (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+9305881,MERATUS JAYAWIJAYA,Panama,15/02/2005,25674,Container ship,RINA Services S.p.A. (RINA),RINA Services S.p.A. (RINA);,PT Meratus Swadaya Maritim,"Shanghai, China",03.06.2026,07.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,04110 - EMERGENCY SYSTEMS - Abandon ship drills (no responsibility of RO)
+,,,,,,,,,,,,10199 - SAFETY OF NAVIGATION - Other (navigation) (no responsibility of RO)
+9320001,OEL VARUN,Panama,23/08/2005,25406,Container ship,DNV AS (DNV),American Bureau of Shipping (ABS);,Helios Ship Management GmbH And Co KG,"Shanghai, China",03.06.2026,12.06.2026,08107 - ALARMS - Machinery controls alarm (DNV AS (DNV))
+,,,,,,,DNV AS (DNV);,,,,,14617 - POLLUTION PREVENTION - MARPOL ANNEX VI - Sulphur content of fuel used (DNV AS (DNV))
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,08199 - ALARMS - Other (alarms) (no responsibility of RO)
+,,,,,,,,,,,,03110 - WATER/WEATHERTIGHT CONDITIONS - Manholes/flush scuttles (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (DNV AS (DNV))"
+9364837,FULSUN OCEAN,Liberia,18/12/2004,16949,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Fulsun Shipping Ltd,"Xiamen, China",03.06.2026,07.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,99101 - OTHER - Other safety in general (no responsibility of RO)
+,,,,,,,,,,,,10112 - SAFETY OF NAVIGATION - Electronic charts (ECDIS) (no responsibility of RO)
+1040813,THERESA BLISS,Panama,10/02/2025,44618,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,TOSHIN KISEN CO LTD,"Gladstone, QLD, Australia",03.06.2026,03.06.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+9913896,EVER ONWARD,Liberia,12/12/2020,27025,Container ship,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,SMTECH Ship Management Co Ltd,"Tanjung Priok, Indonesia",03.06.2026,05.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,,,,,,14503 - POLLUTION PREVENTION - MARPOL ANNEX V - Garbage management plan (no responsibility of RO)
+,,,,,,,,,,,,15102 - ISM - Company responsibility and authority (no responsibility of RO)
+,,,,,,,,,,,,11108 - LIFE SAVING APPLIANCES - Inflatable liferafts (no responsibility of RO)
+,,,,,,,,,,,,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+9253856,OPTIMANA,Isle of Man (GB),22/03/2003,38910,General cargo/multipurpose,DNV AS (DNV),DNV GL AS (DNVGL);,Westfal-Larsen Management AS,"Xiamen, China",03.06.2026,12.06.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9162734,BINTANG LIBERTY 3,"Tanzania, United Republic of",10/10/1996,1418,General cargo/multipurpose,Singapore Bureau of Shipping (SBS),Singapore Bureau of Shipping (SBS);,Borneo Highland Orchard Sdn Bhd,"Singapore, Singapore",03.06.2026,05.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,01337 - CERTIFICATE AND DOCUMENTATION - DOCUMENTS - Certificate or documentary evidence of financial security relating to shipowners liability (no responsibility of RO)
+,,,,,,,,,,,,04102 - EMERGENCY SYSTEMS - Emergency fire pump and its pipes (no responsibility of RO)
+,,,,,,,,,,,,01220 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Seafarers' employment agreement (SEA) (no responsibility of RO)
+,,,,,,,,,,,,10127 - SAFETY OF NAVIGATION - Voyage or passage plan (no responsibility of RO)
+,,,,,,,,,,,,01336 - CERTIFICATE AND DOCUMENTATION - DOCUMENTS - Certificate or documentary evidence of financial security for repatriation (no responsibility of RO)
+9721310,BEAUTY PEPPA,Marshall Islands,30/05/2014,36415,Bulk carrier,RINA Services S.p.A. (RINA),Bureau Veritas (BV);,Shanghai Safe Ship Shipping Co Ltd,"Tianjin, China",03.06.2026,05.06.2026,01220 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Seafarers' employment agreement (SEA) (no responsibility of RO)
+,,,,,,,RINA Services S.p.A. (RINA);,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+9339466,PATRIA NAWASENA 1,Indonesia,24/12/2004,31236,Bulk carrier,Nippon Kaiji Kyokai (NKK),Biro Klasifikasi Indonesia (BKI);,PT Patria Maritime Lines,"Guangzhou, China",03.06.2026,09.06.2026,14699 - POLLUTION PREVENTION - MARPOL ANNEX VI - Other MARPOL Annex VI (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,13199 - PROPULSION AND AUXILIARY MACHINERY - Other (machinery) (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+9352767,U BOOTES,"Tanzania, United Republic of",07/09/2004,3836,General cargo/multipurpose,HORIZON BUREAU SHIPPING,HORIZON BUREAU OF SHIPPING;,NEW ALLIANCE SHIPPING CO LTD,"Qingdao, China",04.06.2026,05.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,02108 - STRUCTURAL CONDITIONS - Electrical installations in general (no responsibility of RO)
+9717981,ANDROMACHE,Marshall Islands,17/12/2015,44028,Bulk carrier,DNV AS (DNV),DNV AS (DNV);,Transocean Maritime Agencies SAM,"Shenzhen, China",04.06.2026,07.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,,,,,,03199 - WATER/WEATHERTIGHT CONDITIONS - Other (load lines) (no responsibility of RO)
+,,,,,,,,,,,,15109 - ISM - Maintenance of the ship and equipment (no responsibility of RO)
+,,,,,,,,,,,,"04103 - EMERGENCY SYSTEMS - Emergency, lighting,batteries and switches (no responsibility of RO)"
+9691187,ASAKAZE,Panama,08/08/2013,7193,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Pacific Ship Management Co Ltd,"Nagoya, Aichi, Japan",04.06.2026,06.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9311206,ARTUNIS,Panama,10/11/2004,42887,Bulk carrier,Nippon Kaiji Kyokai (NKK),Bureau Veritas (BV);,MULBERY MARINE SERVICES INC,"Taizhou, Jiangsu, China",04.06.2026,06.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+9411006,RINI,Marshall Islands,15/06/2006,91373,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Golden Union Shipping Co SA,"Jiangyin, China",04.06.2026,05.06.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+9315886,MSC NIMISHA III,Liberia,09/07/2005,28927,Container ship,DNV AS (DNV),DNV AS (DNV);,MSC Shipmanagement Ltd,"Melbourne, VIC, Australia",04.06.2026,04.06.2026,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+9321029,PRESTIGE,Marshall Islands,24/03/2006,71809,Container ship,Nippon Kaiji Kyokai (NKK),DNV AS (DNV);,Columbia Shipmanagement Ltd,"Shanghai, China",05.06.2026,09.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+1174183,JIE XIANG 1688,Sao Tome and Principe,04/06/2020,5768,Bulk carrier,New United International Marine Services Ltd.,New United International Marine Services Ltd.;,PT SRIKANDI INTAN SAMUDERA,"Nanjing, China",05.06.2026,10.06.2026,05118 - RADIO COMMUNICATIONS - Operation of GMDSS equipment (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (New United International Marine Services Ltd.)
+9473391,MARITEC,"Hong Kong, China",22/05/2008,20763,Bulk carrier,China Classification Society (CCS),China Classification Society (CCS);,Shanghai Anrita Shipping Co Ltd,"Imabari, Japan",05.06.2026,06.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,
+9168879,EVER USEFUL,Panama,11/06/1999,69246,Container ship,Nippon Kaiji Kyokai (NKK),American Bureau of Shipping (ABS);,Evergreen Marine Corp (Taiwan) Ltd (EVERGREEN LINE),"Shanghai, China",05.06.2026,08.06.2026,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+9441362,NVL JUPITER,Panama,27/09/2010,33064,Bulk carrier,Lloyd`s Register (LR),International Register of Shipping;,NVL Trans Shipping Ltd,"Rizhao, China",05.06.2026,06.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (Lloyd`s Register (LR))"
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+9357468,DD VICTORY,Panama,04/10/2007,17136,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,DD Shipping Ltd SA,"Rizhao, China",05.06.2026,09.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,Russian Maritime Register of Shipping (RMRS);,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+9530620,XING GUANG 18,Panama,29/12/2007,8850,General cargo/multipurpose,International Register of Shipping,International Register of Shipping;,Xingguang Int`l Marine Management Ltd,"Tianjin, China",06.06.2026,09.06.2026,07105 - FIRE SAFETY - Fire doors/openings in fire-resisting divisions (no responsibility of RO)
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,,,,,,03110 - WATER/WEATHERTIGHT CONDITIONS - Manholes/flush scuttles (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+9294941,GOLDEN MARINE,Panama,25/07/2003,31260,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Ocean Express Shipping Co Ltd,"Guangzhou, China",06.06.2026,10.06.2026,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,"03112 - WATER/WEATHERTIGHT CONDITIONS - Scuppers, inlets and discharges (no responsibility of RO)"
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+9177569,SEA SOAR,Panama,19/03/1999,17840,Gas carrier,DNV AS (DNV),DNV AS (DNV);,Gemini Shipping Limited,"Zhoushan, China",06.06.2026,09.06.2026,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,KOREAN REGISTER (KR);,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+9773222,ONE TREASURE,Panama,21/12/2015,210691,Container ship,Lloyd`s Register (LR),Lloyd`s Register (LR);,FLEET SHIP MANAGEMENT PTE LTD,"Shanghai, China",06.06.2026,10.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (Lloyd`s Register (LR))"
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,10126 - SAFETY OF NAVIGATION - Record of drills and steering gear tests (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,01199 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Other (certificates) (no responsibility of RO)
+,,,,,,,,,,,,02101 - STRUCTURAL CONDITIONS - Closing devices/watertight doors (no responsibility of RO)
+9139270,OCEAN MOLICA,Panama,12/03/1996,36559,Bulk carrier,Panama Classification Bureau (PCB),Panama Classification Bureau (PCB);,Better Maritime Service Ltd,"Maoming, China",07.06.2026,08.06.2026,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
+1126887,HUAHANG 777,Panama,25/11/2021,14276,Other special activities,Panama Maritime Documentation Services (PMDS),Intermaritime Certification Services (ICS);,United Pioneer Shipping Ltd,"Yantai, China",07.06.2026,10.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,Panama Maritime Documentation Services (PMDS);,,,,,04102 - EMERGENCY SYSTEMS - Emergency fire pump and its pipes (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+1068334,HT GLORY,Panama,13/05/2019,13658,Container ship,International Register of Shipping,Intermaritime Certification Services (ICS);,United Pioneer Shipping Ltd,"Rizhao, China",08.06.2026,09.06.2026,08104 - ALARMS - Steering gear alarm (no responsibility of RO)
+,,,,,,,International Register of Shipping;,,,,,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (International Register of Shipping)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,,,,,,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+9149380,PROSPERITY 101,Panama,09/01/1997,26094,Bulk carrier,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",Shanghai Guojun Ship Management Co Ltd,"Yangjiang, China",08.06.2026,09.06.2026,11108 - LIFE SAVING APPLIANCES - Inflatable liferafts (no responsibility of RO)
+,,,,,,,,,,,,01214 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Endorsement by flagstate (no responsibility of RO)
+,,,,,,,,,,,,10110 - SAFETY OF NAVIGATION - Signalling lamp (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,10112 - SAFETY OF NAVIGATION - Electronic charts (ECDIS) (no responsibility of RO)
+9258337,ROSE MANN,"Korea, Republic of",05/10/2001,27306,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Portmann Ship Management Co Ltd,"Shanghai, China",08.06.2026,13.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,11124 - LIFE SAVING APPLIANCES - Embarkation arrangement survival craft (no responsibility of RO)
+,,,,,,,,,,,,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,08107 - ALARMS - Machinery controls alarm (no responsibility of RO)
+,,,,,,,,,,,,11110 - LIFE SAVING APPLIANCES - Stowage and provision of liferafts (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,08109 - ALARMS - Boiler alarm (no responsibility of RO)
+1145663,KAI QIANG 288,Panama,09/11/2021,53505,Ro-Ro cargo,"Isthmus Bureau of Shipping, S.A. (IBS)",Intermaritime Certification Services (ICS);,Nantong Amiger Shipping Co Ltd,"Taicang, China",08.06.2026,10.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,"Isthmus Bureau of Shipping, S.A. (IBS);",,,,,"07101 - FIRE SAFETY - Fire prevention structural integrity (Isthmus Bureau of Shipping, S.A. (IBS))"
+,,,,,,,,,,,,"07113 - FIRE SAFETY - Fire pumps and its pipes (Isthmus Bureau of Shipping, S.A. (IBS))"
+,,,,,,,,,,,,08110 - ALARMS - Closing water-tight doors alarm (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+9460875,HTP OCEAN,Vietnam,25/03/2005,1598,General cargo/multipurpose,Vietnam Register (VR),Vietnam Register (VR);,HOANG THIEN PHU INVESTMENT JOINT STOCK COMPANY,"Guangzhou, China",08.06.2026,10.06.2026,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,05118 - RADIO COMMUNICATIONS - Operation of GMDSS equipment (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+1056941,GREAT PANDA,Panama,30/07/2020,7100,Bulk carrier,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",YUANDUO SHIP SERVICE CO LTD,"Nanjing, China",08.06.2026,09.06.2026,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (Overseas Marine Certification Service, Inc. (OMCS))"
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (Overseas Marine Certification Service, Inc. (OMCS))"
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+9923891,KAIQI,Panama,17/12/2019,6700,General cargo/multipurpose,"Overseas Marine Certification Service, Inc. (OMCS)",International Register of Shipping;,LNG SHIPPING LTD,"Rizhao, China",08.06.2026,09.06.2026,"13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (Overseas Marine Certification Service, Inc. (OMCS))"
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+9407885,GSL KITHIRA,Liberia,30/06/2008,52726,Container ship,RINA Services S.p.A. (RINA),RINA Services S.p.A. (RINA);,TECHNOMAR SHIPPING INC,"Brisbane, QLD, Australia",08.06.2026,09.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+9312365,VW PEACE,Panama,21/12/2004,5997,General cargo/multipurpose,RINA Services S.p.A. (RINA),"Overseas Marine Certification Service, Inc. ;",DAEYUAN SHIPPING CO.& #44; LIMITED,"Incheon, Korea, Republic of",08.06.2026,15.06.2026,10127 - SAFETY OF NAVIGATION - Voyage or passage plan (no responsibility of RO)
+,,,,,,,Registro Italiano Navale ;,,,,,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,10101 - SAFETY OF NAVIGATION - Pilot ladders and hoist/pilot transfer arrangements (no responsibility of RO)
+,,,,,,,,,,,,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,11124 - LIFE SAVING APPLIANCES - Embarkation arrangement survival craft (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,07126 - FIRE SAFETY - Oil accumulation in engine room (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+9508706,ELINA II,Panama,18/06/2006,31117,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Gulf of Aden Shipping LLC,"Fangcheng, China",08.06.2026,15.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,"03103 - WATER/WEATHERTIGHT CONDITIONS - Railing, gangway, walkway and means for safe passage (no responsibility of RO)"
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+9981154,HMM MIRACLE,Panama,29/02/2024,18812,Container ship,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,"HMM Ocean Service Co., Ltd.","Shanghai, China",08.06.2026,10.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,11124 - LIFE SAVING APPLIANCES - Embarkation arrangement survival craft (no responsibility of RO)
+9664897,YM MODERATION,Panama,25/09/2010,71821,Container ship,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,FLEET SHIP MANAGEMENT PTE LTD,"Shanghai, China",09.06.2026,10.06.2026,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+9970222,NORSE IWASHI,Panama,29/10/2024,26272,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai;,Cleanseas Shipmanagement,"Port Moody, Canada",09.06.2026,12.06.2026,10127 - SAFETY OF NAVIGATION - Voyage or passage plan (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,11131 - LIFE SAVING APPLIANCES - On board training and instructions (no responsibility of RO)
+,,,,,,,,,,,,14606 - POLLUTION PREVENTION - MARPOL ANNEX VI - Diesel engine relating to air pollution control (no responsibility of RO)
+,,,,,,,,,,,,99102 - OTHER - Other (SOLAS operational) (no responsibility of RO)
+,,,,,,,,,,,,14810 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Discharge violation in port (no responsibility of RO)
+9387619,JET,Panama,17/08/2005,7345,General cargo/multipurpose,International Register of Shipping,"Overseas Marine Certification Service, Inc. (OMCS);",Eastern Meridian Pte Ltd,"Qingdao, China",09.06.2026,15.06.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,10103 - SAFETY OF NAVIGATION - Radar (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,13102 - PROPULSION AND AUXILIARY MACHINERY - Auxiliary engine (no responsibility of RO)
+9539250,DRAGON SKY,Panama,24/06/2010,49718,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,PTC Ship Management Inc,"Zhenjiang, China",09.06.2026,10.06.2026,05118 - RADIO COMMUNICATIONS - Operation of GMDSS equipment (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,"03112 - WATER/WEATHERTIGHT CONDITIONS - Scuppers, inlets and discharges (no responsibility of RO)"
+8648042,XIN FENG HAI,Panama,23/01/2008,2915,General cargo/multipurpose,Panama Maritime Documentation Services (PMDS),Panama Maritime Documentation Services (PMDS);,Zhoushan Huatong Ship Management Co Ltd,"Dalian, China",09.06.2026,10.06.2026,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+8655722,XIN ZHOU HAI,Comoros,28/05/2004,2959,General cargo/multipurpose,Union Bureau of Shipping,Union Bureau of Shipping;,Zhoushan Huatong Ship Management Co Ltd,"Yingkou, China",10.06.2026,12.06.2026,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,08101 - ALARMS - General alarm (no responsibility of RO)
+9960538,SEAGULL,Liberia,07/10/2023,49877,Container ship,DNV AS (DNV),Bureau Veritas (BV);,Navios Containers Management Inc,"Sydney, NSW, Australia",10.06.2026,11.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,DNV AS (DNV);,,,,,
+9216999,TONSBERG,Liberia,04/09/2000,65059,Container ship,RINA Services S.p.A. (RINA),RINA Services S.p.A. (RINA);,TECHNOMAR SHIPPING INC.,"Guangzhou, China",10.06.2026,15.06.2026,"02111 - STRUCTURAL CONDITIONS - Beams, frames, floors-corrosion (no responsibility of RO)"
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,03104 - WATER/WEATHERTIGHT CONDITIONS - Cargo & other hatchways (no responsibility of RO)
+,,,,,,,,,,,,01220 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Seafarers' employment agreement (SEA) (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+9133068,CR TETHYS,Cameroon,07/11/1996,29083,Chemical tanker,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",SHANGHAI ZHIMENG INTERNATIONAL SHIP MANAGEMENT CO LTD,"Humen, China",10.06.2026,25.06.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+,,,,,,,,,,,,07102 - FIRE SAFETY - Inert gas system (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,12107 - DANGEROUS GOODS - Fire protection cargo deck area (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+9261360,WAN MING FU QIANG,Panama,22/08/2001,40437,Bulk carrier,"Isthmus Bureau of Shipping, S.A. (IBS)",Intermaritime Certification Services (ICS);,Nantong Amiger Shipping Co Ltd,"Fuzhou, China",11.06.2026,12.06.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (Isthmus Bureau of Shipping, S.A. (IBS))"
+,,,,,,,"Isthmus Bureau of Shipping, S.A. (IBS);",,,,,"07101 - FIRE SAFETY - Fire prevention structural integrity (Isthmus Bureau of Shipping, S.A. (IBS))"
+9102083,STOLT INSPIRATION,Cayman Islands (GB),02/01/1996,24625,Oil tanker/Chemical tanker (OILCHEM),DNV AS (DNV),DNV AS (DNV);,STOLT TANKERS BV,"Shanghai, China",11.06.2026,19.06.2026,07101 - FIRE SAFETY - Fire prevention structural integrity (DNV AS (DNV))
+,,,,,,,,,,,,12107 - DANGEROUS GOODS - Fire protection cargo deck area (DNV AS (DNV))
+9367578,LORD VISHNU,Panama,23/11/2007,51917,Vehicle carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Laurel Ship Management Pte Ltd,"Shanghai, China",11.06.2026,12.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (Nippon Kaiji Kyokai (NKK))
+,,,,,,,,,,,,11131 - LIFE SAVING APPLIANCES - On board training and instructions (no responsibility of RO)
+,,,,,,,,,,,,13102 - PROPULSION AND AUXILIARY MACHINERY - Auxiliary engine (no responsibility of RO)
+9490442,ODYSSEUS N,Marshall Islands,05/11/2008,43507,Bulk carrier,DNV AS (DNV),Bureau Veritas (BV);,NAVIOS MARITIME MANAGEMENT INC,"Dongjiakou, China",11.06.2026,12.06.2026,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,DNV AS (DNV);,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+9844148,CRANE AVANCE,Panama,05/06/2018,2625,Oil tanker/Chemical tanker (OILCHEM),Nippon Kaiji Kyokai (NKK),American Bureau of Shipping (ABS);,"GREEN MARITIME CO., LTD.","Shanghai, China",11.06.2026,13.06.2026,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (no responsibility of RO)
+,,,,,,,,,,,,07105 - FIRE SAFETY - Fire doors/openings in fire-resisting divisions (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+8810346,KUSHIRO,"Tanzania, United Republic of",05/07/1988,1986,General cargo/multipurpose,Cosmos Marine Bureau Inc.,Cosmos Marine Bureau Inc.;,Otani Shipping Ltd,"Dongjiakou, China",11.06.2026,14.06.2026,02105 - STRUCTURAL CONDITIONS - Steering gear (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+9978896,TIAN JIU 2,Panama,25/04/2021,2993,Special purpose ship,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",SINOSHIPPING LOGISTICS LIMITED,"Humen, China",11.06.2026,12.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9758466,PINCHAT,Panama,11/12/2015,43024,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,MISUGA KAIUN CO LTD,"Gladstone, QLD, Australia",11.06.2026,13.06.2026,15150 - ISM - ISM (no responsibility of RO)
+9528550,BUENA SUERTE,Panama,24/09/2008,2900,Gas carrier,Nippon Kaiji Kyokai (NKK),American Bureau of Shipping (ABS);,Lee And Shipping Co Ltd,"Shanghai, China",11.06.2026,13.06.2026,12107 - DANGEROUS GOODS - Fire protection cargo deck area (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,06105 - CARGO OPERATIONS INCLUDING EQUIPMENT - Atmosphere testing instruments (no responsibility of RO)
+,,,,,,,,,,,,02115 - STRUCTURAL CONDITIONS - Bulkheads - operational damage (no responsibility of RO)
+9112686,YUNEX,Panama,30/03/1995,9675,Container ship,DNV AS (DNV),DNV AS (DNV);,Nuway Ship Services LLC,"Zhoushan, China",11.06.2026,12.06.2026,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+9699608,CRANE VEGA,Panama,13/09/2013,3591,Gas carrier,Nippon Kaiji Kyokai (NKK),American Bureau of Shipping (ABS);,"GREEN MARITIME CO., LTD.","Ningbo, China",11.06.2026,12.06.2026,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9633410,MYKONOS,Malta,26/12/2011,43990,Bulk carrier,Bureau Veritas (BV),Bureau Veritas (BV);,bonito cmpany limited,"Qingdao, China",11.06.2026,12.06.2026,05114 - RADIO COMMUNICATIONS - Reserve source of energy (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+9606546,BAO LONG,Panama,21/12/2010,18465,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Hubei Qintai Shipping Co Ltd,"Tianjin, China",11.06.2026,12.06.2026,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,07105 - FIRE SAFETY - Fire doors/openings in fire-resisting divisions (no responsibility of RO)
+9242546,OMARI,Panama,20/10/2000,17433,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Ocean Express Shipping Co Ltd,"Zhuhai, China",12.06.2026,14.06.2026,01138 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - International Energy Efficiency Certificate (no responsibility of RO)
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9737503,TEXAS TRIUMPH,Panama,25/12/2014,153014,Container ship,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Synergy Marine Pte Ltd,"Shanghai, China",12.06.2026,16.06.2026,10126 - SAFETY OF NAVIGATION - Record of drills and steering gear tests (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,03107 - WATER/WEATHERTIGHT CONDITIONS - Doors (no responsibility of RO)
+9149665,ETERNAL PROSPERITY,Panama,17/04/1997,19354,General cargo/multipurpose,Nippon Kaiji Kyokai (NKK),New United International Marine Services Ltd.;,Nanjing Jiahang Shipping Co Ltd,"Zhangjiagang, China",12.06.2026,13.06.2026,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,08104 - ALARMS - Steering gear alarm (no responsibility of RO)
+9575149,DARYA MAYA,Marshall Islands,22/12/2011,35812,Bulk carrier,DNV AS (DNV),DNV AS (DNV);,Anglo-Eastern Ship Management Ltd,"Xiamen, China",12.06.2026,13.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,04102 - EMERGENCY SYSTEMS - Emergency fire pump and its pipes (no responsibility of RO)
+9231573,ACE WIN,Vanuatu,07/05/2001,29986,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Golden Harvest Ship Management Co Ltd,"Zhanjiang, China",12.06.2026,14.06.2026,10112 - SAFETY OF NAVIGATION - Electronic charts (ECDIS) (no responsibility of RO)
+,,,,,,,Intermaritime Certification Services (ICS);,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,18204 - LABOUR CONDITIONS-CONDITIONS OF EMPLOYMENT - Non- payment of wages (no responsibility of RO)
+9650781,CAPE PELICAN,Liberia,19/11/2010,93044,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Zodiac Maritime Ltd,"Huanghua, China",12.06.2026,13.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+9284518,ALESSANDRA M,Malta,26/06/2002,29372,Bulk carrier,Nippon Kaiji Kyokai (NKK),Bureau Veritas (BV);,Victoria Maritime Trading Ltd,"Haikou, China",12.06.2026,15.06.2026,11124 - LIFE SAVING APPLIANCES - Embarkation arrangement survival craft (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (no responsibility of RO)
+9290543,MSC SUSANNA,Panama,22/04/2005,107849,Container ship,DNV GL AS (DNVGL),DNV AS (DNV);,MEDITERRANEAN SHIPPING CO SRL,"Shanghai, China",13.06.2026,23.06.2026,10137 - SAFETY OF NAVIGATION - Long-range identification and tracking system (LRIT) (DNV AS (DNV))
+,,,,,,,RINA Services S.p.A. (RINA);,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (DNV AS (DNV))
+,,,,,,,,,,,,08108 - ALARMS - UMS - alarms (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (DNV AS (DNV))
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (DNV AS (DNV))
+1041087,HAO HAI JI YUN,Panama,27/10/2022,18667,Container ship,Panama Maritime Documentation Services (PMDS),Intermaritime Certification Services (ICS);,SHANGHAI UNITED AIRLINES SHIP MANAGEMENT (HONG KONG) CO LTD,"Zhoushan, China",14.06.2026,16.06.2026,"14601 - POLLUTION PREVENTION - MARPOL ANNEX VI - Technical files and if applicable, monitoring manual (no responsibility of RO)"
+,,,,,,,Panama Maritime Documentation Services (PMDS);,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,08107 - ALARMS - Machinery controls alarm (no responsibility of RO)
+9735799,TIAN MU SHAN,Marshall Islands,08/10/2014,36291,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,FLEET MANAGEMENT LTD.,"Qinzhou, China",14.06.2026,17.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,DNV AS (DNV);,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,05105 - RADIO COMMUNICATIONS - MF/HF Radio installation (no responsibility of RO)
+,,,,,,,,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
+9820855,EVER GRADE,Panama,25/12/2015,219158,Container ship,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,SYNERGY PACIFIC PRIVATE LIMITED,"Shanghai, China",14.06.2026,15.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,03107 - WATER/WEATHERTIGHT CONDITIONS - Doors (no responsibility of RO)
+1180728,HAO HAI 308,Sao Tome and Principe,03/08/2016,5488,Other special activities,Asia Shipping Certification Services (ASCS),Asia Shipping Certification Services (ASCS);,UNKNOWN,"Lianyungang, China",15.06.2026,21.06.2026,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (Asia Shipping Certification Services (ASCS))
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (Asia Shipping Certification Services (ASCS))
+,,,,,,,,,,,,03107 - WATER/WEATHERTIGHT CONDITIONS - Doors (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (Asia Shipping Certification Services (ASCS))
+9947263,CORNALIN,Panama,07/12/2020,43820,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Kobe Shipmanagement Co Ltd,"Guangzhou, China",15.06.2026,18.06.2026,11131 - LIFE SAVING APPLIANCES - On board training and instructions (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,02199 - STRUCTURAL CONDITIONS - Other (Structural condition) (no responsibility of RO)
+9621015,FEI RUN,China,28/12/2010,32965,Bulk carrier,China Classification Society (CCS),China Classification Society (CCS);,Shanghai Hongyang Shipping Co Ltd,"Geelong, VIC, Australia",15.06.2026,22.06.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,"18499 - LABOUR CONDITIONS-HEALTH PROTECTION, MEDICAL CARE,SOCIAL SECURITY - Other (Health protection, medical care...) (no responsibility of RO)"
+9277747,ELISE,Cameroon,10/11/2003,42447,Oil tanker,MLR,MED LLOYD CLASSIFICATION SOCIETY;,Ahana Ship Management (Pvt) Ltd,"Vanino, Russian Federation",15.06.2026,22.06.2026,18203 - LABOUR CONDITIONS-CONDITIONS OF EMPLOYMENT - Wages (no responsibility of RO)
+9629873,SAKURA GAS,Panama,13/12/2011,47964,Gas carrier,Nippon Kaiji Kyokai (NKK),DNV AS (DNV);,Wilhelmsen Ship Management Sdn Bhd,"Ningbo, China",15.06.2026,16.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+1175149,DA DONG FANG 21,Sierra Leone,27/03/2005,2864,Oil tanker,Sing-Lloyd,Sing-Lloyd;,UNKOWN,"Zhoushan, China",15.06.2026,16.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,08104 - ALARMS - Steering gear alarm (no responsibility of RO)
+9627758,W-ORIGINAL,Liberia,12/12/2011,44325,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,W MARINE INC,"Huanghua, China",16.06.2026,18.06.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,14608 - POLLUTION PREVENTION - MARPOL ANNEX VI - Incinerator incl.operations and operating manual (no responsibility of RO)
+8783969,TAI ZE XING 319,Panama,02/11/2007,9583,Bulk carrier,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",Onda Shipping Co Ltd,"Humen, China",16.06.2026,17.06.2026,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,"04103 - EMERGENCY SYSTEMS - Emergency, lighting,batteries and switches (no responsibility of RO)"
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+9378967,HUA SHUN DA 3,Sao Tome and Principe,23/11/2004,1998,General cargo/multipurpose,Universal Maritime Bureau Ltd,Universal Maritime Bureau Ltd;,Dalian Power Ship Management Co Ltd,"Dalian, China",16.06.2026,19.06.2026,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,,,,,,02105 - STRUCTURAL CONDITIONS - Steering gear (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+1174638,DYNASTY STAR,Sao Tome and Principe,16/06/2009,499,Oil tanker,No class,Asia Shipping Certification Services (ASCS);,UNKOWN,"Zhoushan, China",16.06.2026,18.06.2026,10111 - SAFETY OF NAVIGATION - Charts (no responsibility of RO)
+,,,,,,,,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,03110 - WATER/WEATHERTIGHT CONDITIONS - Manholes/flush scuttles (no responsibility of RO)
+9167502,UNIPOWER,Panama,06/05/1997,8081,General cargo/multipurpose,Intermaritime Certification Services (ICS),"Intermaritime Certification Services, S.A. ;",WEN XIANG INTERNATIONAL TRADING CO.& #44;LTD,"Masan, Korea, Republic of",16.06.2026,19.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,10135 - SAFETY OF NAVIGATION - Monitoring of voyage or passage plan (no responsibility of RO)
+,,,,,,,,,,,,07126 - FIRE SAFETY - Oil accumulation in engine room (no responsibility of RO)
+,,,,,,,,,,,,11132 - LIFE SAVING APPLIANCES - Maintenance and inspections (no responsibility of RO)
+9718870,SILVER HEBA,"Hong Kong, China",29/12/2015,29375,Oil tanker/Chemical tanker (OILCHEM),American Bureau of Shipping (ABS),American Bureau of Shipping;,M.T.M. SHIP MANAGEMENT PTE. LTD,"Vancouver, Canada",16.06.2026,19.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,06199 - CARGO OPERATIONS INCLUDING EQUIPMENT - Other (cargo) (no responsibility of RO)
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (American Bureau of Shipping (ABS))
+,,,,,,,,,,,,04107 - EMERGENCY SYSTEMS - Emergency towing arrangements and procedures (American Bureau of Shipping (ABS))
+,,,,,,,,,,,,04121 - EMERGENCY SYSTEMS - Crew familiarisation with Emergency Systems (no responsibility of RO)
+9419462,BAO FU,Panama,15/02/2010,132537,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Fukujin Kisen Co Ltd (Fukujin Kisen KK ),"Shanghai, China",17.06.2026,18.06.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+9617947,SFL YANGTZE,"Hong Kong, China",05/12/2011,45263,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,BERNHARD SCHULTE SHIPMANAGEMENT (SINGAPORE) PTE LTD,"Abbot Point, QLD, Australia",17.06.2026,18.06.2026,03104 - WATER/WEATHERTIGHT CONDITIONS - Cargo & other hatchways (no responsibility of RO)
+,,,,,,,DNV AS (DNV);,,,,,
+1079319,YUN HAI 316,Panama,11/11/2008,5512,General cargo/multipurpose,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",SHANGHAI SHUNYING SHIPPING CO LTD,"Kagoshima, Japan",17.06.2026,22.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+9310745,AC KATHRYN,Panama,01/11/2004,19885,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,SINCERE INDUSTRIAL CORPORATION,"Guangzhou, China",18.06.2026,23.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,02199 - STRUCTURAL CONDITIONS - Other (Structural condition) (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+9719549,STAR CARIOCA,Marshall Islands,24/12/2014,43320,Bulk carrier,Bureau Veritas (BV),Bureau Veritas (BV);,STARBULK SA,"Brisbane, QLD, Australia",18.06.2026,19.06.2026,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9592446,AANYA,Panama,17/12/2011,93693,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Adani Shipping (India) Ltd,"Fangcheng, China",18.06.2026,21.06.2026,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,Lloyd`s Register (LR);,,,,,08108 - ALARMS - UMS - alarms (no responsibility of RO)
+9299331,PREMIER,Vietnam,27/05/2004,8813,Container ship,Vietnam Register (VR),Vietnam Register (VR);,Polaris Shipping Co Ltd,"Osaka, Japan",19.06.2026,30.06.2026,04109 - EMERGENCY SYSTEMS - Fire drills (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,10111 - SAFETY OF NAVIGATION - Charts (no responsibility of RO)
+9330329,OMICRON SKY,Liberia,28/06/2004,40611,Bulk carrier,RINA Services S.p.A. (RINA),American Bureau of Shipping (ABS);,Omicron Ship Management Inc,"Shanghai, China",20.06.2026,24.06.2026,03110 - WATER/WEATHERTIGHT CONDITIONS - Manholes/flush scuttles (no responsibility of RO)
+,,,,,,,RINA Services S.p.A. (RINA);,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (RINA Services S.p.A. (RINA))"
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (RINA Services S.p.A. (RINA))"
+,,,,,,,,,,,,01199 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Other (certificates) (no responsibility of RO)
+,,,,,,,,,,,,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+9187708,HONGSHENG,Vanuatu,03/08/1998,38364,Bulk carrier,Lloyd`s Register (LR),Intermaritime Certification Services (ICS);,Intercon Marine Shanghai Co Ltd,"Qinzhou, China",20.06.2026,23.06.2026,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+9037123,SC CUTTA,Cameroon,05/01/1989,24252,Oil tanker,Asia Shipping Certification Services (ASCS),Asia Shipping Certification Services (ASCS);,Mars Adventure Ltd,"Guangzhou, China",22.06.2026,26.06.2026,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+,,,,,,,,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+9317937,MSC TAMPICO V,Portugal,18/07/2006,54150,Container ship,DNV AS (DNV),DNV AS (DNV);,MSC SHIPMANAGEMENT LTD,"Xiamen, China",22.06.2026,22.06.2026,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+1178945,QUELIMANE 1,Sao Tome and Principe,15/05/2019,2497,Other special activities,Panama Maritime Documentation Services (PMDS),Panama Maritime Documentation Services (PMDS);,UNKNOWN,"Humen, China",22.06.2026,26.06.2026,02101 - STRUCTURAL CONDITIONS - Closing devices/watertight doors (no responsibility of RO)
+,,,,,,,,,,,,05106 - RADIO COMMUNICATIONS - Recognized Mobile Satellite Service (RMSS) ship earth station (no responsibility of RO)
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,,,,,,13102 - PROPULSION AND AUXILIARY MACHINERY - Auxiliary engine (no responsibility of RO)
+,,,,,,,,,,,,05105 - RADIO COMMUNICATIONS - MF/HF Radio installation (no responsibility of RO)
+,,,,,,,,,,,,11110 - LIFE SAVING APPLIANCES - Stowage and provision of liferafts (no responsibility of RO)
+,,,,,,,,,,,,01125 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Engine International Air Pollution Prev. Cert. (no responsibility of RO)
+,,,,,,,,,,,,02102 - STRUCTURAL CONDITIONS - Damage control plan (no responsibility of RO)
+,,,,,,,,,,,,01328 - CERTIFICATE AND DOCUMENTATION - DOCUMENTS - Ship Energy Efficiency Management plan (no responsibility of RO)
+,,,,,,,,,,,,10112 - SAFETY OF NAVIGATION - Electronic charts (ECDIS) (no responsibility of RO)
+,,,,,,,,,,,,01123 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Continuous synopsis record (no responsibility of RO)
+,,,,,,,,,,,,01327 - CERTIFICATE AND DOCUMENTATION - DOCUMENTS - Energy Efficiency Design Index File (no responsibility of RO)
+9810329,INDUSTRIAL COURAGE,Portugal,15/12/2015,7498,General cargo/multipurpose,Lloyd`s Register (LR),DNV AS (DNV);,SAL Ship Management UG (haftungsbeschrankt) & Co KG,"Port Alma, QLD, Australia",22.06.2026,29.06.2026,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,
+9503201,OCEAN ROAD,Panama,15/12/2008,93359,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,KLC SM CO.& #44;LTD,"Rizhao, China",23.06.2026,25.06.2026,11113 - LIFE SAVING APPLIANCES - Launching arrangements for rescue boats (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9571492,MAASGRACHT,Netherlands,22/12/2009,9524,General cargo/multipurpose,Bureau Veritas (BV),Bureau Veritas (BV);,Spliethoff`s Bevrachtingskantoor BV,"Yokohama, Japan",23.06.2026,25.06.2026,07101 - FIRE SAFETY - Fire prevention structural integrity (Bureau Veritas (BV))
+,,,,,,,Lloyd`s Register (LR);,,,,,
+9618006,AFRICAN CORMORANT,Bahamas,09/04/2013,24725,Bulk carrier,Bureau Veritas (BV),American Bureau of Shipping (ABS);,Dockendale Ship Management FZCO,"Townsville, QLD, Australia",23.06.2026,01.07.2026,15109 - ISM - Maintenance of the ship and equipment (no responsibility of RO)
+,,,,,,,Bureau Veritas (BV);,,,,,
+9347956,MEDKON DON,Panama,22/12/2004,9948,Container ship,Bureau Veritas (BV),Bureau Veritas (BV);,OKYANUS EGE DENIZCILIK TICARET AS,"Shanghai, China",23.06.2026,24.06.2026,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (Bureau Veritas (BV))"
+,,,,,,,Phoenix Register of Shipping;,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (Bureau Veritas (BV))"
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (Bureau Veritas (BV))
+,,,,,,,,,,,,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (Bureau Veritas (BV))"
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (Bureau Veritas (BV))
+,,,,,,,,,,,,14608 - POLLUTION PREVENTION - MARPOL ANNEX VI - Incinerator incl.operations and operating manual (Bureau Veritas (BV))
+9543835,LAN NING 15,Sierra Leone,18/05/2007,8461,General cargo/multipurpose,Union Bureau of Shipping,Union Bureau of Shipping;,Dalian Lanning Ship Management Co Ltd,"Haikou, China",23.06.2026,25.06.2026,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+9005194,LOTUS RIVER,Sierra Leone,08/11/1990,4521,Oil tanker,New United International Marine Services Ltd.,New United International Marine Services Ltd.;,Sinar Cemerlang Marine Sdn Bhd,"Singapore, Singapore",23.06.2026,,10199 - SAFETY OF NAVIGATION - Other (navigation) (New United International Marine Services Ltd.)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (New United International Marine Services Ltd.)"
+,,,,,,,,,,,,01220 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Seafarers' employment agreement (SEA) (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (New United International Marine Services Ltd.)
+,,,,,,,,,,,,10116 - SAFETY OF NAVIGATION - Nautical publications (New United International Marine Services Ltd.)
+,,,,,,,,,,,,01218 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Medical certificate (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,01199 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Other (certificates) (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (New United International Marine Services Ltd.)
+,,,,,,,,,,,,"18312 - LABOUR CONDITIONS-ACCOMMODATION, RECREATIONAL FACILITIES, FOOD AND CATERING - Galley, handlingroom (maintenance) (no responsibility of RO)"
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (New United International Marine Services Ltd.)"
+,,,,,,,,,,,,07112 - FIRE SAFETY - Emergency Escape Breathing Device and disposition (New United International Marine Services Ltd.)
+9708265,STELLAR ALAZANI,Liberia,24/11/2010,17027,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Stellar Navigation Ltd,"Yantai, China",24.06.2026,29.06.2026,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,02199 - STRUCTURAL CONDITIONS - Other (Structural condition) (no responsibility of RO)
+1021910,JI HANG 56,Panama,21/11/2008,9998,Bulk carrier,"Overseas Marine Certification Service, Inc. (OMCS)",Bureau Veritas (BV);,Fefish Shipping Co Ltd,"Taizhou, Jiangsu, China",24.06.2026,29.06.2026,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,13101 - PROPULSION AND AUXILIARY MACHINERY - Propulsion main engine (no responsibility of RO)
+,,,,,,,,,,,,11104 - LIFE SAVING APPLIANCES - Rescue boats (no responsibility of RO)
+,,,,,,,,,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,,,,,,11124 - LIFE SAVING APPLIANCES - Embarkation arrangement survival craft (no responsibility of RO)
+,,,,,,,,,,,,"03103 - WATER/WEATHERTIGHT CONDITIONS - Railing, gangway, walkway and means for safe passage (no responsibility of RO)"
+9603154,SSI IRRESISTIBLE,Marshall Islands,30/03/2012,44047,Bulk carrier,Lloyd`s Register (LR),Lloyd`s Register (LR);,Densay Ship Management And Technical Services FZCO,"Yingkou, China",24.06.2026,25.06.2026,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (no responsibility of RO)"
+,,,,,,,,,,,,07115 - FIRE SAFETY - Fire-dampers (no responsibility of RO)
+1065992,BO RUN YONG LI,Panama,14/11/2020,2998,General cargo/multipurpose,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",Mega Dragon Shipping Ltd,"Nanjing, China",24.06.2026,25.06.2026,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,10127 - SAFETY OF NAVIGATION - Voyage or passage plan (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,14108 - POLLUTION PREVENTION - MARPOL ANNEX I - 15 PPM Alarm arrangmts. (no responsibility of RO)
+8655980,JIN DONG 11,Belize,01/03/2006,9995,Bulk carrier,Universal Maritime Bureau Ltd,Universal Maritime Bureau Ltd;,Jindong International Ship Management Co Ltd,"Caofeidian, China",24.06.2026,26.06.2026,03107 - WATER/WEATHERTIGHT CONDITIONS - Doors (no responsibility of RO)
+,,,,,,,,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+9460899,GLOVIS COMPANION,Liberia,10/12/2008,60213,Vehicle carrier,KOREAN REGISTER (KR),Korean Register of Shipping ;,G-MARINE SERVICE CO.& #44; LTD,"Incheon, Korea, Republic of",25.06.2026,26.06.2026,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+9258325,GOLDEN LEAF,Panama,06/12/2001,17150,Bulk carrier,KOREAN REGISTER (KR),KOREAN REGISTER (KR);,Ocean Express Shipping Co Ltd,"Quanzhou, China",25.06.2026,26.06.2026,13199 - PROPULSION AND AUXILIARY MACHINERY - Other (machinery) (no responsibility of RO)
+,,,,,,,"Overseas Marine Certification Service, Inc. (OMCS);",,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+9748459,RED COSMOS,Marshall Islands,23/12/2014,34815,Bulk carrier,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Misuga Kaiun Holland BV,"Tianjin, China",25.06.2026,26.06.2026,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,07110 - FIRE SAFETY - Fire fighting equipment and appliances (no responsibility of RO)
+,,,,,,,,,,,,07105 - FIRE SAFETY - Fire doors/openings in fire-resisting divisions (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+9465722,PH MINH GIANG,Panama,24/12/2005,14912,Bulk carrier,Nippon Kaiji Kyokai (NKK),Macosnar Corporation;,INTERNATIONAL IMPORT EXPORT TRANSPORT COMPANY LIMITED,"Tianjin, China",25.06.2026,29.06.2026,14107 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil disch. Monitoring and control system (no responsibility of RO)
+,,,,,,,Nippon Kaiji Kyokai (NKK);,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+9192179,SILVER WHISPER,Bahamas,04/03/1999,28258,Passenger ship,RINA Services S.p.A. (RINA),RINA Services S.p.A.;,SILVERSEA CRUISES LLC,"Vancouver, Canada",25.06.2026,25.06.2026,01107 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Safety Management Certificate (SMC/ISM Code) (no responsibility of RO)
+9254745,TAN BINH 136,Vietnam,23/08/2001,17953,Bulk carrier,Vietnam Register (VR),Nippon Kaiji Kyokai (NKK);,Tan Binh Co Ltd (Cong Ty Tnhh Tan Binh),"Nantong, China",25.06.2026,26.06.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,Vietnam Register (VR);,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,03104 - WATER/WEATHERTIGHT CONDITIONS - Cargo & other hatchways (no responsibility of RO)
+9349320,OCEAN KUDOS,Liberia,28/12/2004,40488,Bulk carrier,RINA Services S.p.A. (RINA),KOREAN REGISTER (KR);,Rodanim Ship Management Ltd,"Tangshan, China",26.06.2026,27.06.2026,04102 - EMERGENCY SYSTEMS - Emergency fire pump and its pipes (no responsibility of RO)
+,,,,,,,RINA Services S.p.A. (RINA);,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9332951,MARAN VISION,Greece,25/09/2006,87927,Bulk carrier,American Bureau of Shipping (ABS),American Bureau of Shipping (ABS);,Maran Dry Management Inc,"Tianjin, China",26.06.2026,27.06.2026,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,Bureau Veritas (BV);,,,,,14606 - POLLUTION PREVENTION - MARPOL ANNEX VI - Diesel engine relating to air pollution control (no responsibility of RO)
+,,,,,,,DNV AS (DNV);,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+1066051,XIN LIN HAI 1,Panama,18/04/2008,10123,General cargo/multipurpose,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,LINYANG SHIPPING COMPANY LIMITED,"Nantong, China",26.06.2026,28.06.2026,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9442902,ROYAL ARKAN,Bangladesh,24/12/2004,30018,Bulk carrier,Lloyd`s Register (LR),DNV AS (DNV);,Vanguard Maritime Ltd,"Yingkou, China",26.06.2026,27.06.2026,08104 - ALARMS - Steering gear alarm (no responsibility of RO)
+,,,,,,,Lloyd`s Register (LR);,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,14104 - POLLUTION PREVENTION - MARPOL ANNEX I - Oil filtering equipment (no responsibility of RO)
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+9646601,ZHEN XIANG 6,China,24/06/2011,41605,Bulk carrier,China Classification Society (CCS),China Classification Society (CCS);,SHANGHAI SAFE SHIP SHIPPING CO LTD,"Newcastle, NSW, Australia",26.06.2026,28.06.2026,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (China Classification Society (CCS))
+9343649,DONG GUI 6,Sao Tome and Principe,28/12/2003,1063,Oil tanker/Chemical tanker (OILCHEM),New United International Marine Services Ltd.,New United International Marine Services Ltd.;,UNKNOWN,"Guangzhou, China",26.06.2026,29.06.2026,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,10103 - SAFETY OF NAVIGATION - Radar (no responsibility of RO)
+,,,,,,,,,,,,07120 - FIRE SAFETY - Means of escape (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,10112 - SAFETY OF NAVIGATION - Electronic charts (ECDIS) (no responsibility of RO)
+,,,,,,,,,,,,10116 - SAFETY OF NAVIGATION - Nautical publications (no responsibility of RO)
+,,,,,,,,,,,,05199 - RADIO COMMUNICATIONS - Other (radiocommunication) (no responsibility of RO)
+,,,,,,,,,,,,03102 - WATER/WEATHERTIGHT CONDITIONS - Freeboard marks (no responsibility of RO)
+,,,,,,,,,,,,07199 - FIRE SAFETY - Other (fire safety) (no responsibility of RO)
+9567673,OOCL DURBAN,Panama,26/08/2010,87697,Container ship,Nippon Kaiji Kyokai (NKK),Nippon Kaiji Kyokai (NKK);,Synergy Pacific Pvt Ltd,"Shanghai, China",26.06.2026,28.06.2026,06104 - CARGO OPERATIONS INCLUDING EQUIPMENT - Lashing material (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+8655992,GAO XIN 16,Sao Tome and Principe,11/07/2005,8973,General cargo/multipurpose,Universal Maritime Bureau Ltd,Universal Maritime Bureau Ltd;,Gold Glory International Ship Management Ltd,"Shanghai, China",27.06.2026,29.06.2026,11125 - LIFE SAVING APPLIANCES - Embarkation arrangements rescue boats (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+8591251,SHUN CHI,Panama,16/06/2008,7653,General cargo/multipurpose,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",SHANGHAI SHUNYING SHIPPING CO LTD,"Dongjiakou, China",28.06.2026,29.06.2026,13102 - PROPULSION AND AUXILIARY MACHINERY - Auxiliary engine (no responsibility of RO)
+,,,,,,,,,,,,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+9936068,HONG DA XIN 68,Panama,20/04/2020,22454,Container ship,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,XIAMEN WISDOM OCEAN LTD,"Shanghai, China",28.06.2026,30.06.2026,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,04110 - EMERGENCY SYSTEMS - Abandon ship drills (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+9223485,GREAT YONGJIN,Liberia,29/05/2000,37722,Bulk carrier,Polski Rejestr Statkow (Polish Register of Shipping),Polski Rejestr Statkow (Polish Register of Shipping);,Ming Heng Ocean Ltd,"Xiamen, China",29.06.2026,01.07.2026,07113 - FIRE SAFETY - Fire pumps and its pipes (no responsibility of RO)
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,11110 - LIFE SAVING APPLIANCES - Stowage and provision of liferafts (no responsibility of RO)
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+1177367,BLUEWAVE,Sierra Leone,22/04/2025,2958,General cargo/multipurpose,Sing-Lloyd,Sing-Lloyd;,"SKYLINE SHIPPING CO.,LTD","Lianyungang, China",29.06.2026,01.07.2026,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+9233399,HE SHUN AN,Sierra Leone,27/09/2000,29963,Bulk carrier,Foresight Ship Classification (FSCLASS),Foresight Ship Classification (FSCLASS);,Ocean Peace Shipping Ltd,"Caofeidian, China",29.06.2026,01.07.2026,11101 - LIFE SAVING APPLIANCES - Lifeboats (no responsibility of RO)
+,,,,,,,,,,,,11112 - LIFE SAVING APPLIANCES - Launching arrangements for survival craft (Foresight Ship Classification (FSCLASS))
+,,,,,,,,,,,,07109 - FIRE SAFETY - Fixed fire extinguishing installation (no responsibility of RO)
+,,,,,,,,,,,,"10109 - SAFETY OF NAVIGATION - Lights, shapes, sound-signals (Foresight Ship Classification (FSCLASS))"
+,,,,,,,,,,,,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+9398412,SAN DIEGO,Liberia,15/06/2009,91158,Container ship,KOREAN REGISTER (KR),DNV AS (DNV);,NSC Shipping GmbH And Cie KG,"Tianjin, China",29.06.2026,30.06.2026,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,KOREAN REGISTER (KR);,,,,,11123 - LIFE SAVING APPLIANCES - Emergency equipment for 2-way comm. (no responsibility of RO)
+1160998,TONG TAI 5,Sao Tome and Principe,16/12/2011,637,Ro-Ro passenger ship,"Overseas Marine Certification Service, Inc. (OMCS)","Overseas Marine Certification Service, Inc. (OMCS);",UNKNOWN,"Weihai, China",29.06.2026,01.07.2026,"03102 - WATER/WEATHERTIGHT CONDITIONS - Freeboard marks (Overseas Marine Certification Service, Inc. (OMCS))"
+,,,,,,,,,,,,02105 - STRUCTURAL CONDITIONS - Steering gear (no responsibility of RO)
+,,,,,,,,,,,,"07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (Overseas Marine Certification Service, Inc. (OMCS))"
+,,,,,,,,,,,,"10114 - SAFETY OF NAVIGATION - Voyage data recorder (VDR)/Simplified Voyage data recorder(S-VDR) (Overseas Marine Certification Service, Inc. (OMCS))"
+1083085,G HENG TAI 1,Panama,22/08/2008,15943,Bulk carrier,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,Heng Tai Ships Management Co Ltd,"Zhangjiagang, China",29.06.2026,02.07.2026,07126 - FIRE SAFETY - Oil accumulation in engine room (no responsibility of RO)
+,,,,,,,,,,,,07117 - FIRE SAFETY - Jacketed high pressure lines and oil leakage alarm (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+8112419,AILAN TOUGH,Vanuatu,18/09/1982,396,Tug,"Overseas Marine Certification Service, Inc. (OMCS)",,Global Logistic Solutions Ltd,"Lae, Papua New Guinea",29.06.2026,,11108 - LIFE SAVING APPLIANCES - Inflatable liferafts (no responsibility of RO)
+,,,,,,,,,,,,01105 - CERTIFICATE AND DOCUMENTATION - SHIP CERTIFICATES - Cargo Ship Safety (including exemption) (no responsibility of RO)
+,,,,,,,,,,,,09228 - LIVING AND WORKING CONDITIONS - WORKING CONDITIONS - Anchoring devices (no responsibility of RO)
+,,,,,,,,,,,,09229 - LIVING AND WORKING CONDITIONS - WORKING CONDITIONS - Winches & capstans (no responsibility of RO)
+,,,,,,,,,,,,01214 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Endorsement by flagstate (no responsibility of RO)
+,,,,,,,,,,,,01214 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Endorsement by flagstate (no responsibility of RO)
+,,,,,,,,,,,,01202 - CERTIFICATE AND DOCUMENTATION - CREW CERTIFICATES - Certificate for rating for watchkeeping (no responsibility of RO)
+,,,,,,,,,,,,11117 - LIFE SAVING APPLIANCES - Lifebuoys incl. provision and disposition (no responsibility of RO)
+9492206,ALMERA,Portugal,26/12/2010,91412,Bulk carrier,RINA Services S.p.A. (RINA),DNV AS (DNV);,Peter Doehle Schiffahrts-KG,"Tianjin, China",29.06.2026,30.06.2026,14402 - POLLUTION PREVENTION - MARPOL ANNEX IV - Sewage treatment plant (no responsibility of RO)
+,,,,,,,RINA Services S.p.A. (RINA);,,,,,08109 - ALARMS - Boiler alarm (no responsibility of RO)
+,,,,,,,,,,,,"03105 - WATER/WEATHERTIGHT CONDITIONS - Covers (hatchway-, portable-, tarpaulins, etc.) (no responsibility of RO)"
+,,,,,,,,,,,,02199 - STRUCTURAL CONDITIONS - Other (Structural condition) (no responsibility of RO)
+9419747,DONG-A METIS,Panama,05/12/2008,60396,Vehicle carrier,KOREAN REGISTER (KR),Korean Register of Shipping ;,KMARIN OCEAN SERVICE CORPORATION,"Ulsan, Korea, Republic of",29.06.2026,01.07.2026,10101 - SAFETY OF NAVIGATION - Pilot ladders and hoist/pilot transfer arrangements (no responsibility of RO)
+,,,,,,,,,,,,10127 - SAFETY OF NAVIGATION - Voyage or passage plan (no responsibility of RO)
+,,,,,,,,,,,,07106 - FIRE SAFETY - Fire detection and alarm system (no responsibility of RO)
+,,,,,,,,,,,,07116 - FIRE SAFETY - Ventilation (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+9231511,YONG TAI,Gambia,12/11/2001,43075,Oil tanker/Chemical tanker (OILCHEM),"CHIEF OCEAN SHIPPING CO.,LTD.",CHIEF OCEAN SHIPPING CO. LTD.;,Wiser Shipping Ltd,"Singapore, Singapore",30.06.2026,03.07.2026,18299 - LABOUR CONDITIONS-CONDITIONS OF EMPLOYMENT - Other (Conditions of employment) (no responsibility of RO)
+,,,,,,,"CHIEF OCEAN SHIPPING CO., LTD.;",,,,,04114 - EMERGENCY SYSTEMS - Emergency source of power - Emergency generator (no responsibility of RO)
+,,,,,,,"CHIEF OCEAN SHIPPING CO.,LTD.;",,,,,15150 - ISM - ISM (no responsibility of RO)
+9223552,ERLIN,Panama,07/09/2000,27980,Bulk carrier,Lloyd`s Register (LR),Intermaritime Certification Services (ICS);,Full One Shipping Ltd,"Yingkou, China",30.06.2026,01.07.2026,"03108 - WATER/WEATHERTIGHT CONDITIONS - Ventilators, air pipes, casings (no responsibility of RO)"
+,,,,,,,Lloyd`s Register (LR);,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,,,,,,"07103 - FIRE SAFETY - Division - decks,bulkheads and penetrations (no responsibility of RO)"
+,,,,,,,,,,,,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+1082835,ANDREA 8,Panama,14/04/2008,7881,Bulk carrier,Intermaritime Certification Services (ICS),Intermaritime Certification Services (ICS);,Hong Kong Wing Ji Shipping Ltd,"Kawasaki, Japan",30.06.2026,07.07.2026,07101 - FIRE SAFETY - Fire prevention structural integrity (no responsibility of RO)
+,,,,,,,,,,,,15150 - ISM - ISM (no responsibility of RO)
+,,,,,,,,,,,,04109 - EMERGENCY SYSTEMS - Fire drills (no responsibility of RO)
+9511260,WHITE ROCK,Barbados,05/05/2012,43717,Bulk carrier,China Classification Society (CCS),Bureau Veritas (BV);,Cachalot Technical Ship Management FZCO,"Dandong, China",30.06.2026,03.07.2026,"07114 - FIRE SAFETY - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces (no responsibility of RO)"
+,,,,,,,China Classification Society (CCS);,,,,,14806 - POLLUTION PREVENTION - BALLAST WATER - Crew Training and familiarization (no responsibility of RO)
+,,,,,,,,,,,,02101 - STRUCTURAL CONDITIONS - Closing devices/watertight doors (no responsibility of RO)
+,,,,,,,,,,,,14811 - POLLUTION PREVENTION - BALLAST WATER - Ballast Water Management System (no responsibility of RO)
+,,,,,,,,,,,,04113 - EMERGENCY SYSTEMS - Water level indicator (no responsibility of RO)
